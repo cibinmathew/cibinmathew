@@ -7,10 +7,11 @@
 
 </br><p>
  
-Also passionate about CLI and *nix tools managed using dotfiles. Tools I usually use:
+Also passionate about CLI and *nix tools managed using dotfiles. Tools I usually use(incl others):
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
-- vim, vs code & sublime
+- vim & vs code
+- [Sublime text](https://www.sublimetext.com/) - currently developing(In progress) a [sublime text plugin](https://github.com/cibinmathew/sublime-alter-text)
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys/) - vi bindings on browser
 - [fzf](https://github.com/junegunn/fzf) - interactive fuzzy selector
 - [ranger](https://github.com/ranger/ranger) ncurses based terminal file manager
