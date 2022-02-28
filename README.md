@@ -11,7 +11,7 @@ Also passionate about CLI and *nix tools managed using dotfiles(private configur
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
 - vim & vs code
-- [Sublime text](https://www.sublimetext.com/) - currently developing(In progress) a [sublime text plugin](https://github.com/cibinmathew/sublime-alter-text)
+- [Sublime text](https://www.sublimetext.com/) - Shareware but natively supports extending with python 🙂  Currently developing(In progress) a [sublime text plugin](https://github.com/cibinmathew/sublime-alter-text)
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys/) - vi bindings on browser
 - [fzf](https://github.com/junegunn/fzf) - interactive fuzzy selector
 - [ranger](https://github.com/ranger/ranger) ncurses based terminal file manager
