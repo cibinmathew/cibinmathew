@@ -7,7 +7,7 @@
 
 </br><p>
  
-Also passionate about CLI and *nix tools. Tools I usually use:
+Also passionate about CLI and *nix tools managed using dotfiles. Tools I usually use:
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
 - vim, vs code & sublime
