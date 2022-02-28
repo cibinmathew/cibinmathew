@@ -18,5 +18,8 @@ Also passionate about CLI and *nix tools. Tools I usually use:
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
 - vim, vs code & sublime
+- [Surfingkeys](https://github.com/brookhong/Surfingkeys/) - vi bindings on browser
 - [fzf](https://github.com/junegunn/fzf) - interactive fuzzy selector
+- [ranger](https://github.com/ranger/ranger) ncurses based terminal file manager
+- [tig](https://github.com/jonas/tig) ncurses based interface for git
 </p>
