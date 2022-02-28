@@ -7,7 +7,7 @@
 
 </br><p>
  
-Also passionate about CLI and *nix tools managed using dotfiles(private configuration). Tools I usually use(incl others):
+Also passionate about CLI and *nix tools managed using dotfiles(messy private configuration 😉). Tools I usually use(incl others):
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
 - vim & vs code
