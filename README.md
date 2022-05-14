@@ -15,7 +15,7 @@
 
 </br><p>
  
-CLI and *nix tools I use managed with dotfiles(messy private configuration 😉).
+CLI and *nix tools I use managed with dotfiles(messy private configuration 😉). will create a public dotfiles repo soon :-) 
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
 - vim & vs code
