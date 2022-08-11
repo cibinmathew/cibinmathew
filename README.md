@@ -19,7 +19,9 @@ CLI and *nix tools I use managed with dotfiles(messy private configuration 😉)
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
 - vim & vs code
-- [Sublime text](https://www.sublimetext.com/) - natively supports extending with python but a shareware 🙂  <i>Currently developing(In progress) a [sublime text plugin](https://github.com/cibinmathew/sublime-alter-text)</i>
+- [Sublime text](https://www.sublimetext.com/) - natively supports extending with python but a shareware 🙂  
+  - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
+  - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys/) - vi bindings on browser
  - [fzf](https://github.com/junegunn/fzf) - <b>interactive fuzzy selector</b>.<i>You will find a lot of fzf scripts and customisations</i>
 - [ranger](https://github.com/ranger/ranger) ncurses based terminal file manager
