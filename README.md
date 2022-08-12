@@ -14,14 +14,17 @@
 
 
 </br><p>
- 
+Below are the projects I work
+- [Sublime text](https://www.sublimetext.com/) - natively supports python to extend the features but a shareware 🙂  
+  - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
+  - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
+</p> 
+</br><p> 
+  
 CLI and *nix tools I use managed with dotfiles(messy private configuration 😉). will create a public dotfiles repo soon :-) 
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with powerlevel10k
 - vim & vs code
-- [Sublime text](https://www.sublimetext.com/) - natively supports extending with python but a shareware 🙂  
-  - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
-  - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys/) - vi bindings on browser
  - [fzf](https://github.com/junegunn/fzf) - <b>interactive fuzzy selector</b>.<i>You will find a lot of fzf scripts and customisations</i>
 - [ranger](https://github.com/ranger/ranger) ncurses based terminal file manager
