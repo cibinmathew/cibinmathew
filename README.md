@@ -23,7 +23,7 @@ Below are the projects I work
   
 CLI and *nix tools I use managed with dotfiles(messy private configuration 😉). will create a public dotfiles repo soon :-) 
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
-- [zsh](https://www.zsh.org/) with powerlevel10k
+- [zsh](https://www.zsh.org/) with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - vim & vs code
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys/) - vi bindings on browser
  - [fzf](https://github.com/junegunn/fzf) - <b>interactive fuzzy selector</b>.<i>You will find a lot of fzf scripts and customisations</i>
