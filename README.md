@@ -34,7 +34,7 @@ You can read few of my articles on [*Medium*](https://medium.com/@cibin.mathew)
 </p>
 </br>
 <p align="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibinmathew&layout=compact&hide=Emacs%20Lisp,html,Roff,AutoHotkey,M4,TeX&show_icons=true&locale=en" alt="cibinmathew" /> 
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibinmathew&layout=compact&hide=Emacs%20Lisp,html,Roff,AutoHotkey,M4,TeX&show_icons=true&locale=en" alt="cibinmathew" /> -->
 
 </p>
  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cibinmathew&show_icons=true&locale=en" alt="cibinmathew" />  -->
