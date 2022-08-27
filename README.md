@@ -21,7 +21,9 @@ Below are the projects I work
 </p> 
 </br><p> 
   
-CLI and *nix tools I use managed with dotfiles(messy private configuration 😉). will create a public dotfiles repo soon :-) 
+CLI and *nix tools I use managed with dotfiles(messy private configuration 😉). will create a public [dotfiles repo](https://github.com/cibinmathew/dotfiles) soon :-) 
+
+You can read few of my articles on [*Medium*](https://medium.com/@cibin.mathew) 
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - vim & vs code
