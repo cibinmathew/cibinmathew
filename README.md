@@ -20,7 +20,19 @@ Below are the projects I work
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
 </p> 
 </br><p> 
+
+<details>
   
+  <summary>My terminal development setup</summary>
+  
+  
+ </br>Read more on [Medium](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18)
+
+ <img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png"  width="900" >
+
+</details>
+
+
 CLI and *nix tools I use managed with dotfiles(messy private configuration 😉). will create a public [dotfiles repo](https://github.com/cibinmathew/dotfiles) soon :-) 
 
 You can read few of my articles on [*Medium*](https://medium.com/@cibin.mathew) 
