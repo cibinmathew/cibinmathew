@@ -26,7 +26,7 @@ Below are the projects I work
   <summary>View my terminal development setup</summary>
   
   
- </br>Read more on [Medium](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18)
+ </br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com
 
  <img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png"  width="900" >
 
