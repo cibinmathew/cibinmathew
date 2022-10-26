@@ -23,7 +23,7 @@ Below are the projects I work
 
 <details>
   
-  <summary>View my terminal development setup</summary>
+  <summary>Click here to view my terminal development setup</summary>
   
   
  </br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com
