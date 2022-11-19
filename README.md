@@ -18,13 +18,12 @@ Below are the projects I work
 - [Sublime text](https://www.sublimetext.com/) - natively supports python to extend the features but a shareware 🙂  
   - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
+- ZSH plugin
+  - [cycle-fav-dirs](https://github.com/cibinmathew/cycle-fav-dirs) Plugin to cycle through your favourite directories
 </p> 
 </br><p> 
-
 <details>
-  
- <summary><b>Click here</b> to view my terminal development setup</summary>
-  
+<summary><b>Click here</b> to view my terminal development setup</summary>
   
  </br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com
 
