@@ -15,7 +15,7 @@
 
 </br><p>
 Below are few of my projects
-- [Sublime text](https://www.sublimetext.com/) - natively supports python to extend the features but a shareware 🙂  
+- [Sublime text](https://www.sublimetext.com/) plugins - natively supports python to extend the features but a shareware 🙂  
   - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
 - ZSH plugin
