@@ -20,21 +20,14 @@ Below are few of my projects
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
 - ZSH plugin
   - [cycle-fav-dirs](https://github.com/cibinmathew/cycle-fav-dirs) Plugin to cycle through your favourite directories
+- dotfiles repo
+  - [dotfiles](https://github.com/cibinmathew/dotfiles) CLI and *nix tools I use, managed with dotfiles(taken from my messy private configuration 😉). will add more to the public repo soon :-)
+  </br><details><summary><b>Click here</b> to view my terminal development setup</summary></br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com<img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png" width="900">
+</details>
 </p> 
 </br><p> 
-<details>
-<summary><b>Click here</b> to view my terminal development setup</summary>
-  
- </br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com
-
- <img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png"  width="900" >
-
-</details>
-
-
-CLI and *nix tools I use managed with dotfiles(messy private configuration 😉). will create a public [dotfiles repo](https://github.com/cibinmathew/dotfiles) soon :-) 
-
-You can read few of my articles on [*Medium*](https://medium.com/@cibin.mathew) 
+ 
+You can read few of my articles on <a href="(https://medium.com/@cibin.mathew)"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" width="90"></a>
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - vim & vs code
