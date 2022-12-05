@@ -24,7 +24,7 @@ Below are few of my projects
 </p> 
 </br><p> 
  
-You can read few of my articles on <a href="(https://medium.com/@cibin.mathew)"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" width="90"></a>
+You can read few of my articles on <a href="https://medium.com/@cibin.mathew" target="_blank"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" alt="https://medium.com/@cibin.mathew" width="90"></a>
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - vim & vs code
