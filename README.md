@@ -16,7 +16,7 @@ Below are few of my projects
   - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
 - Chrome Extension
-  - [DevOps Colours](https://github.com/cibinmathew/ops-buddy) visually differentiate between `QA` and `Prod` servers
+  - [DevOps Colours](https://github.com/cibinmathew/ops-buddy) visually differentiate `QA` and `Prod` servers to help devops people.
 - ZSH plugin
   - [cycle-fav-dirs](https://github.com/cibinmathew/cycle-fav-dirs) Plugin to cycle through your favourite directories
 - dotfiles repo
