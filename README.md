@@ -12,7 +12,7 @@
 
 </br><p>
 Below are few of my projects
-- [Sublime text](https://www.sublimetext.com/) plugins - natively supports python to extend the features but a shareware 🙂  
+- [Sublime text](https://www.sublimetext.com/) plugins - natively supports python 
   - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Currently developing(In progress)</i>
 - Chrome Extension
@@ -20,8 +20,9 @@ Below are few of my projects
 - ZSH plugin
   - [cycle-fav-dirs](https://github.com/cibinmathew/cycle-fav-dirs) Plugin to cycle through your favourite directories
 - dotfiles repo
-  - [dotfiles](https://github.com/cibinmathew/dotfiles) CLI and *nix tools I use, managed with dotfiles(taken from my messy private configuration 😉). will add more to the public repo soon :-)
-</br><details><summary><b>Click to expand</b> View my <b>terminal development setup</b></summary></br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com<img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png" width="900">
+  - [dotfiles](https://github.com/cibinmathew/dotfiles) CLI and *nix tools I use, managed with dotfiles(taken from my messy private configuration). will add more to the public repo soon :-)
+</br>
+<details><summary><b>Click to expand</b> View my <b>terminal development setup</b></summary></br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com<img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png" width="900">
 </details>
 </p> 
 </br><p> 
