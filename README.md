@@ -21,8 +21,7 @@ Below are few of my projects
   - [cycle-fav-dirs](https://github.com/cibinmathew/cycle-fav-dirs) Plugin to cycle through your favourite directories
 - dotfiles repo
   - [dotfiles](https://github.com/cibinmathew/dotfiles) CLI and *nix tools I use, managed with dotfiles(taken from my messy private configuration). will add more to the public repo soon :-)
-</br>
-<details><summary><b>Click to expand</b> View my <b>terminal development setup</b></summary></br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com<img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png" width="900">
+</br><details><summary><b>Click to expand</b> View my <b>terminal development setup</b></summary></br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com<img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png" width="900">
 </details>
 </p> 
 </br><p> 
