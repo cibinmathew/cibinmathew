@@ -26,9 +26,9 @@
    Python, AWS and command line tools and libraries</p>
 </br><p> 
 <pre><b>◼  Blog</b></pre>
-<p>
+
 You can read few of [my articles](https://medium.com/@cibin.mathew) on <a href="https://medium.com/@cibin.mathew" target="_blank"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" alt="https://medium.com/@cibin.mathew" width="90"></a>
-</br></br></p>
+</br></br>
 <pre><b>◼  Terminal Setup</b></pre>
  
 - dotfiles repo
