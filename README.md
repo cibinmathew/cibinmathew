@@ -25,11 +25,11 @@
 <p><b><pre>◼  Open Source Contributions</b></pre></br>
    Python, AWS and command line tools and libraries</p>
 </br><p> 
-<pre>◼  Blog</pre>
+<pre><b>◼  Blog</b></pre>
 <p>
 You can read few of [my articles](https://medium.com/@cibin.mathew) on <a href="https://medium.com/@cibin.mathew" target="_blank"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" alt="https://medium.com/@cibin.mathew" width="90"></a>
 </br></br></p>
-<pre>◼  Terminal Setup</pre>
+<pre><b>◼  Terminal Setup</b></pre>
  
 - dotfiles repo
   - [dotfiles](https://github.com/cibinmathew/dotfiles) CLI and *nix tools I use, managed with dotfiles(taken from my messy private configuration). will add more to the public repo soon :-)
