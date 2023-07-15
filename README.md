@@ -11,7 +11,7 @@
 
 
 </br><p>
-<pre>◼  <b>My Projects</b></pre></br>
+<pre><b>My Projects</b></pre></br>
 
 
 - [Sublime text](https://www.sublimetext.com/) plugins - natively supports python 
@@ -22,21 +22,21 @@
   - [cycle-fav-dirs](https://github.com/cibinmathew/cycle-fav-dirs) Plugin to cycle through your favourite directories
 
 </p></br>
-<p><b><pre>◼  Open Source Contributions</b></pre></br>
+<p><b><pre>Open Source Contributions</b></pre></br>
    Python, AWS and command line tools and libraries</p>
 </br><p> 
-<pre><b>◼  Blog</b></pre>
+<pre><b>Blog</b></pre>
 
 You can read few of [my articles](https://medium.com/@cibin.mathew) on <a href="https://medium.com/@cibin.mathew" target="_blank"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" alt="https://medium.com/@cibin.mathew" width="90"></a>
 </br></br>
-<pre><b>◼  Terminal Setup</b></pre>
+<pre><b>Terminal Setup</b></pre>
  
 - dotfiles repo
   - [dotfiles](https://github.com/cibinmathew/dotfiles) CLI and *nix tools I use, managed with dotfiles(taken from my messy private configuration). will add more to the public repo soon :-)
 </br><details><summary><b>Click to expand</b> View my <b>terminal development setup</b></summary></br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com<img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png" width="900">
 </details>
 
-<b>Tools I use</b>
+&nbsp;&nbsp;&nbsp;<b>Tools I use</b>
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - vim & vs code
