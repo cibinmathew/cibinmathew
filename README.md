@@ -11,7 +11,7 @@
 
 
 </br><p>
-Below are few of my projects
+◼ Below are few of <b>my projects</b>
 - [Sublime text](https://www.sublimetext.com/) plugins - natively supports python 
   - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Quickly alter text in Sublime Text</i>
@@ -22,10 +22,12 @@ Below are few of my projects
   - [dotfiles](https://github.com/cibinmathew/dotfiles) CLI and *nix tools I use, managed with dotfiles(taken from my messy private configuration). will add more to the public repo soon :-)
 </br><details><summary><b>Click to expand</b> View my <b>terminal development setup</b></summary></br>Read more about [my-terminal-and-development-setup](https://medium.com/@cibin.mathew/my-terminal-and-development-setup-e99f5baf2b18) on medium.com<img src="https://miro.medium.com/max/4800/1*72NDraaGKmUwmzJoAuxbSQ.png" width="900">
 </details>
-</p> 
+</p></br>
+<p><b>◼ Open Source Contributions</b></br>
+   Python, AWS and command line tools and libraries</p>
 </br><p> 
  
-You can read few of [my articles](https://medium.com/@cibin.mathew) on <a href="https://medium.com/@cibin.mathew" target="_blank"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" alt="https://medium.com/@cibin.mathew" width="90"></a>
+◼ You can read few of [my articles](https://medium.com/@cibin.mathew) on <a href="https://medium.com/@cibin.mathew" target="_blank"> <img src="https://miro.medium.com/max/1002/1*s986xIGqhfsN8U--09_AdA.webp" alt="https://medium.com/@cibin.mathew" width="90"></a>
 - [tmux](https://github.com/tmux/tmux/) - terminal multiplexer
 - [zsh](https://www.zsh.org/) with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - vim & vs code
