@@ -11,7 +11,7 @@
 
 
 </br><p>
-<pre>◼  Below are few of <b>my projects</b></pre></br>
+<pre>◼  <b>My Projects</b></pre></br>
 
 
 - [Sublime text](https://www.sublimetext.com/) plugins - natively supports python 
