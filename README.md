@@ -14,7 +14,8 @@
 <pre><b>My Projects</b></pre></br>
 
 
-- [Sublime text](https://www.sublimetext.com/) plugins - natively supports python 
+- [Sublime text](https://www.sublimetext.com/) plugins - natively supports python
+  - [AWS Helper](https://github.com/cibinmathew/sublime-aws-helper) : Plugin to validate IAM policies using `AWS accessanalyzer`
   - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Quickly alter text in Sublime Text</i>
 - [DevOps Colours](https://github.com/cibinmathew/ops-buddy) Chrome Extension to visually differentiate `QA` and `Prod` servers to help devops people.
