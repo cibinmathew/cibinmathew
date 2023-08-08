@@ -19,6 +19,7 @@
   - [sublime_quickfix_list](https://github.com/cibinmathew/sublime_quickfix_list)
   - [alter-text](https://github.com/cibinmathew/sublime-alter-text) <i>Quickly alter text in Sublime Text</i>
 - [DevOps Colours](https://github.com/cibinmathew/ops-buddy) Chrome Extension to visually differentiate `QA` and `Prod` servers to help devops people.
+- [aws-urwid-cli](https://github.com/cibinmathew/aws-urwid-cli) cli app to query AWS (Tutorial)
 - ZSH plugin
   - [cycle-fav-dirs](https://github.com/cibinmathew/cycle-fav-dirs) Plugin to cycle through your favourite directories
 
